@@ -7,6 +7,14 @@
 <!-- Title -->
 <h1 align="center"><b>CS114.O21 - MÁY HỌC</b></h1>
 
+## Thành viên nhóm
+
+| STT    | MSSV          | Họ và Tên                | Github                                                  | Email                   |
+| ------ |:-------------:| ----------------------:|--------------------------------------------------------:|-------------------------:
+| 1      | 22521074      | Nguyễn Hùng Phát         |[phat9824](https://github.com/phat9824)  |22521074@gm.uit.edu.vn   |
+| 2      | 22520725      | Trần Quang Anh Kiệt          |[kietran](https://github.com/kietran)            |22520725@gm.uit.edu.vn   |
+| 3      | 22521189      | Thái Ngọc Quân        |[QuanThaiX](QuanThaiX)|22521189@gm.uit.edu.vn   |
+
 
 
 ## BẢNG MỤC LỤC
@@ -21,17 +29,6 @@
 * **Lớp học**: CS114.O21
 * **Ngày bắt đầu**: 19/02/2024
 * **Năm học**: 2023-2024
-## QUÁ TRÌNH MÔN HỌC
-<a name ="quatrinh"></a>
-### 1.LẬP TRÌNH PYTHON
-
-
-<a name ="colab"></a>
-### 2.COLAB ASSSIGNMENTS
-
-
-<a name ="QT"></a>
-### 3.QT IN CLASS
 
 ## GIẢNG VIÊN HƯỚNG DẪN
 <a name="giangvien"></a>
@@ -39,4 +36,10 @@
 * ThS. **Phạm Nguyễn Trường An** - *truonganpn@uit.edu.vn*
 
 ## ĐỒ ÁN MÔN HỌC
+
+LAB01 : Nhận dạng chữ viết tay
+
+LAB02 : Dự đoán điểm dựa trên kết quả nộp wecode
+
+LAB03 : Phân loại hãng xe moto
 
